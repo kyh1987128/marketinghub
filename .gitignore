@@ -1,0 +1,19 @@
+node_modules/
+
+# Next.js build output
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+dev-server.log
+
+# Environment files
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode/
